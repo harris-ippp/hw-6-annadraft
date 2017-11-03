@@ -1,1 +1,50 @@
-http://your.web.address.com/
+https://annadraft.github.io/
+<html>
+<head>
+  <title>Anna Draft</title>
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:600,500,400,300,200,100,400italic0&subset=latin,greek,latin-ext' rel='stylesheet' type='text/css'>
+  <link href="skeleton.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<h1>Skeleton</h1>
+
+<ul>
+<li><a href="Chickens"</a></li>
+<li><a href="Ducks"</a></li>
+<li><a href="Dogs"</a></li>
+<li><a href="Cows"</a></li>
+</ul>
+
+<h1>Anna Draft</h1>
+
+<img width=30%
+src=https://upload.wikimedia.org/wikipedia/commons/d/d1/K%C3%BCken_vor_dem_ersten_Ausflug.jpg>
+
+<p>
+I am so happy to eat chicken, it just tastes so gosh-darned good!
+</p>
+<p>
+There are many proven health benefits to eating chicken including:
+</p>
+<table>
+<tr><td>Benefit</td> Verified</td></tr>
+<tr><td>Calories</td> True</td></tr>
+<tr><td>Endorphins</td> True</td></tr>
+<tr><td>Sleeping late</td> True</td></tr>
+<tr><td>Ice Cream</td> (Under investigation)</td></tr>
+<tr><td>Energy Neutral</td> False</td></tr>
+<p>
+At right are some chicks, striving for tenderness and juiciness.
+</p>
+<p>
+There are also two lady chicens, <a href=https://upload.wikimedia.org/wikipedia/commons/5/50/Female_pair.jpg><here.></a>
+</p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+</body>
+</html>
