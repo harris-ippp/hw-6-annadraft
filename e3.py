@@ -26,7 +26,7 @@ for id in ELECTION_ID:
     all = pd.concat(df) #concat dataframes
     all["Republican Share"] = all["Republican"]/all["Total Votes Cast"] #for Republican proportion
 
-#create graphs
+#Graphs of Counties
 #Accomack County
 df["Accomack"].plot(kind = line)
 plt.title("Accomack County Share of Republican Vote (1924-2016)")
@@ -39,13 +39,13 @@ plt.title("Albermarle County Share of Republican Vote (1924-2016)")
 plt.xlabel("Year")
 plt.ylabel("Republican Share")
 plt.savefig('albermarle.pdf')
-#Alexandria County
+#Alexandria City
 df["Alexandria"].plot(kind = line)
 plt.title("Alexandria City Share of Republican Vote (1924-2016)")
 plt.xlabel("Year")
 plt.ylabel("Republican Share")
 plt.savefig('alexandria.pdf')
-
+#Alleghany County
 df["Alleghany County"].plot(kind = line)
 plt.title("Alleghany County Share of Republican Vote (1924-2016)")
 plt.xlabel("Year")
