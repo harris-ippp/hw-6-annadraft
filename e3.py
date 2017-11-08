@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 
-#Wasn't able to get this to work... but tried going based of discussion boards and hints
+#Wasn't able to get this to work... but tried going off discussion comments and hints
 #create dataframe
 df = []
 csv = open("ELECTION_ID", "w") #open from ELECTION_ID csv files
